@@ -1,4 +1,3 @@
-
 #  
 
 A **stylish and interactive** web app that provides **real-time cryptocurrency prices, market trends, and insights!**  
