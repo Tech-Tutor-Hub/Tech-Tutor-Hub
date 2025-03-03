@@ -14,7 +14,7 @@ At **The Tech Tutor**, we specialize in three key areas:
    We help job seekers craft **professional resumes and cover letters** tailored to the tech industry. Our resources are designed to help you stand out in a competitive job market. 
 
 
-- ✅ **🌙 Dark Mode** – A stylish dark theme for better viewing.
+
 - ✅ **🔗 Social Footer** – Follow us on YouTube, LinkedIn, and Instagram!  
 
   
