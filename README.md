@@ -3,7 +3,7 @@
 Welcome to **The Tech Tutor** – your ultimate destination for **tech education, software development, and career-building resources!** Whether you're here to learn, contribute, or collaborate, we're excited to have you on board.  
 ---
 
-## 
+## 🌟 **What We Do** 
 At **The Tech Tutor**, we specialize in three key areas:  
 - ✅   .  
 - ✅ **📊 Coin Details Page** – View in-depth insights for each coin. 
