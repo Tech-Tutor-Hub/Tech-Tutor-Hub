@@ -3,7 +3,7 @@
 Welcome to **The Tech Tutor** – your ultimate destination for **tech education, software development, and career-building resources!** Whether you're here to learn, contribute, or collaborate, we're excited to have you on board.  
 ---
 
-## 🌟 Features  
+## 
 - ✅ **🔥 Real-Time Data** – Get live prices and market updates.  .  
 - ✅ **📊 Coin Details Page** – View in-depth insights for each coin. 
 - ✅  **🔍 Powerful Search** – Easily find any cryptocurrency. 
