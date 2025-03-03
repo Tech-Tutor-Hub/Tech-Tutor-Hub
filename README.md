@@ -31,6 +31,7 @@ Check out our YouTube channel for **free tech tutorials, coding challenges, and 
 ---
 
 ## 🤝 **How You Can Contribute**  
+We welcome contributions from the community! Here's how you can get involved:  
 
 
 Want to make Crypto Tracker Web App even better? We’d love your help! 💡  
