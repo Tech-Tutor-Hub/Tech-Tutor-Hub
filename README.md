@@ -19,10 +19,7 @@ At **The Tech Tutor**, we specialize in three key areas:
 
   
   
----      
-## 🎬 Live Demo 
 
-🔗 **[Try It Now]()**  
 
 
 ---
