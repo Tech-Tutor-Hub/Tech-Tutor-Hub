@@ -1,3 +1,4 @@
+
 #  The Tech Tutor 🚀
 
 Welcome to **The Tech Tutor** – your ultimate destination for **tech education, software development, and career-building resources!** Whether you're here to learn, contribute, or collaborate, we're excited to have you on board.  
@@ -21,13 +22,8 @@ Check out our YouTube channel for **free tech tutorials, coding challenges, and 
 👉 [The Tech Tutor on YouTube](https://www.youtube.com/your-channel-link)  
 ---
 
+
 ## ⚙ 🛠 Tech Stack
-| **Technology**  | **Purpose** |
-|-----------------|-------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Structure of the frontend |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Styling and layout |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Frontend interactivity |
-| ![REST API](https://img.shields.io/badge/API-0088CC?style=for-the-badge&logo=api&logoColor=white) | Fetching live crypto data |
 
 ---
 
