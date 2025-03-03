@@ -26,15 +26,6 @@ At **The Tech Tutor**, we specialize in three key areas:
 
 ---
 
-## 🚀 How to Use 
-1️⃣ **Search for a Coin** – Enter a cryptocurrency name or symbol. 🔍
-
-2️⃣ **View Market Trends** – Get live updates on prices and market caps. 📊  
-3️⃣   **Check Coin Details** – Click on a coin for historical data and insights. 📈  
-
-4️⃣ **Dark Mode Toggle** – Switch between light & dark themes. 🌙
-
-
 
 ---
 
