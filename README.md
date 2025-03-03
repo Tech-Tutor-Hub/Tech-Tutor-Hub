@@ -4,7 +4,8 @@ Welcome to **The Tech Tutor** – your ultimate destination for **tech education
 ---
 
 ## 
-- ✅ At **The Tech Tutor**, we specialize in three key areas:   .  
+At **The Tech Tutor**, we specialize in three key areas:  
+- ✅   .  
 - ✅ **📊 Coin Details Page** – View in-depth insights for each coin. 
 - ✅  **🔍 Powerful Search** – Easily find any cryptocurrency. 
 - ✅ **🎭 Smooth Animations** – A sleek, modern UI with beautiful transitions.  
