@@ -5,7 +5,8 @@ Welcome to **The Tech Tutor** – your ultimate destination for **tech education
 
 ## 🌟 **What We Do** 
 At **The Tech Tutor**, we specialize in three key areas:  
-- ✅   .  
+- ✅  **Tech Education on YouTube** 🎥  
+   We create **engaging, beginner-friendly tutorials** on programming, software development, and tech tools. Our YouTube channel is your one-stop shop for learning everything from coding basics to advanced software engineering concepts.  .  
 - ✅ **📊 Coin Details Page** – View in-depth insights for each coin. 
 - ✅  **🔍 Powerful Search** – Easily find any cryptocurrency. 
 - ✅ **🎭 Smooth Animations** – A sleek, modern UI with beautiful transitions.  
