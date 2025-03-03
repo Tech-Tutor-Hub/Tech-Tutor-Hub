@@ -10,7 +10,7 @@ At **The Tech Tutor**, we specialize in three key areas:
 - 2️⃣**Software Development** 💻  
    We build **innovative software solutions** to solve real-world problems. From web applications to mobile apps, our projects are designed to inspire and educate.  
 
-- ✅  **🔍 Powerful Search** – Easily find any cryptocurrency. 
+- ✅ 
 - ✅ **🎭 Smooth Animations** – A sleek, modern UI with beautiful transitions.  
 - ✅ **📉 Price Charts** – View historical trends of your favorite coins.  
 - ✅ **🌙 Dark Mode** – A stylish dark theme for better viewing.
