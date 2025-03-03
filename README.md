@@ -35,18 +35,6 @@ At **The Tech Tutor**, we specialize in three key areas:
 4️⃣ **Dark Mode Toggle** – Switch between light & dark themes. 🌙
 
 
----
-
-## 🛠️ Installation  
-
-1. Clone this repository to your local machine:  
-   
-bash  
-   git clone https://github.com/yourusername/crypto-tracker.git
-  
-
-2. Open the index.html file in your favorite web browser. 🌐  
- 
 
 ---
 
