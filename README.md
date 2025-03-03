@@ -30,7 +30,8 @@ Check out our YouTube channel for **free tech tutorials, coding challenges, and 
 
 ---
 
-## 
+## 🤝 **How You Can Contribute**  
+
 
 Want to make Crypto Tracker Web App even better? We’d love your help! 💡  
 1. Fork this repository.  
