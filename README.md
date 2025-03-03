@@ -17,6 +17,8 @@ At **The Tech Tutor**, we specialize in three key areas:
 ---
 
 ## 📺 **YouTube Channel** 
+Check out our YouTube channel for **free tech tutorials, coding challenges, and career advice**:  
+👉 [The Tech Tutor on YouTube](https://www.youtube.com/your-channel-link)  
 ---
 
 ## ⚙ 🛠 Tech Stack
