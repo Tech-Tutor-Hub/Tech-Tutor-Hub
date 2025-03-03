@@ -16,6 +16,7 @@ At **The Tech Tutor**, we specialize in three key areas:
 
 ---
 
+## 📺 **YouTube Channel**  
 ## ⚙ 🛠 Tech Stack
 | **Technology**  | **Purpose** |
 |-----------------|-------------|
