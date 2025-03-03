@@ -35,19 +35,7 @@ We welcome contributions from the community! Here's how you can get involved:
 
 
 
-3. Make your changes and commit:  
-   
-bash  
-   git commit -m "Add your feature"
-  
-4. Push to your branch:  
-   
-bash  
-   git push origin feature-name
-  
-5. Open a pull request.  
 
-Your contributions are always welcome! 🌟:
 
 
 ---
