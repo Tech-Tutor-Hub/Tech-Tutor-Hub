@@ -15,7 +15,7 @@ At **The Tech Tutor**, we specialize in three key areas:
 
 
 
-- ✅ **🔗 Social Footer** – Follow us on YouTube, LinkedIn, and Instagram!  
+ 
 
   
   
