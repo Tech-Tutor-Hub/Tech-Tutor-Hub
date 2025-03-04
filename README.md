@@ -30,7 +30,7 @@ Check out our YouTube channel for **free tech tutorials, coding challenges, and 
 ---
 
 
-## ⚙ 🛠 Technolo
+## ⚙ 🛠 Technologies
 
 ---
 
