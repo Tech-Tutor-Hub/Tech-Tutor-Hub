@@ -45,6 +45,7 @@ Check out our YouTube channel for **free tech tutorials, coding challenges, and 
 <p align="center">
 
 <a href="https://wa.me/15551234567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="kelvCodes" height="50" width="100" /></a>
+<a href="https://www.youtube.com/@TechTutor_Tv?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kelvCodes" height="50" width="100" /></a>
 
 ---
 
