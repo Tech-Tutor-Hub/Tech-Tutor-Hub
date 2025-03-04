@@ -71,7 +71,7 @@ We welcome contributions from the community! Here's how you can get involved:
  
 ---
 ### 💡 Support The Tech Tutor  
-If you enjoy The Tech Tutor, feel free to [![Buy  A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%F0%9F%8C%8D-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kelvcodes) 
+If you enjoy The Tech Tutor, feel free to [![Buy Us A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%F0%9F%8C%8D-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kelvcodes) 
 
 ---
 Welcome to THE TECH TUTOR,and don’t forget to ⭐ the repo if you like it! 🥳✨  
