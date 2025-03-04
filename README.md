@@ -12,6 +12,7 @@ Welcome to **The Tech Tutor** – your ultimate destination for **tech education
 
 
 ## 🌟 **What We Do** 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 At **The Tech Tutor**, we specialize in three key areas:  
 -  1️⃣ **Tech Education on YouTube** 🎥  
    We create **engaging, beginner-friendly tutorials** on programming, software development, and tech tools. Our YouTube channel is your one-stop shop for learning everything from coding basics to advanced software engineering concepts.  .  
