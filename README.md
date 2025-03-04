@@ -46,9 +46,6 @@ We welcome contributions from the community! Here's how you can get involved:
 4. **Spread the Word** – Share our projects and YouTube channel with your network.  
 
 
-
-
-
 ---
 
 
