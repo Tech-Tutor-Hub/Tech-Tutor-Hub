@@ -41,7 +41,7 @@ Check out our YouTube channel for **free tech tutorials, coding challenges, and 
 
 
 ---
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with  🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with us🤝 </h3>
 <p align="center">
 
 <a href="https://wa.me/15551234567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="kelvCodes" height="50" width="100" /></a>
