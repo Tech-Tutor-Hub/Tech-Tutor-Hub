@@ -72,7 +72,7 @@ Have feedback, ideas, or just want to chat? Reach out to me:
  
 ---
 ### 💡 Support The Tech Tutor  
-If you enjoy The TEch Tutor, feel free to [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%F0%9F%8C%8D-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kelvcodes) 
+If you enjoy The Tech Tutor, feel free to [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%F0%9F%8C%8D-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kelvcodes) 
 
 ---
 Welcome to THE TECH TUTOR,and don’t forget to ⭐ the repo if you like it! 🥳✨  
