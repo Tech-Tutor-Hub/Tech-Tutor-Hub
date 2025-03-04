@@ -1,7 +1,7 @@
 
 #  The Tech Tutor 🚀
 
-<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There+%F0%9F%91%8B%2C+This's+TechTutorHub;Youtube+Learning+Platform+And+Software+Enth...👨🏻‍💻;" style="width: 100%;">
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There+%F0%9F%91%8B%2C+This's+TechTutorHub;Youtube+Learning+Platform+And+Software+...👨🏻‍💻;" style="width: 100%;">
 
 
 Welcome to **The Tech Tutor** – your ultimate destination for **tech education, software development, and career-building resources!** Whether you're here to learn, contribute, or collaborate, we're excited to have you on board.  
