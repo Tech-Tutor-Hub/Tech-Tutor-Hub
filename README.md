@@ -32,6 +32,11 @@ Check out our YouTube channel for **free tech tutorials, coding challenges, and 
 
 
 ## ⚙ 🛠 Technologies We Use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,firebase,github,html,java,js,linux,md,materialui,mysql,nodejs,react,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
 
 ---
 
